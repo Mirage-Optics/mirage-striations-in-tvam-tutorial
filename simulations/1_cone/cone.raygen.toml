@@ -2,7 +2,7 @@
 [output]
 output_folder = "rayfiles"
 output_filename = "cone.ry"
-
+overwrite = true
 rays_only = true
 # center: pixel center in/out
 activation_mode = "antialiased"
