@@ -14,7 +14,7 @@ rotation_angle_deg = 6.0 # [˚]
 start_angle_deg = 0.0 # [˚]
 
 [output]
-capture_count = 10
+capture_count = 1
 
 [optics]
 solver_type = "FE"
