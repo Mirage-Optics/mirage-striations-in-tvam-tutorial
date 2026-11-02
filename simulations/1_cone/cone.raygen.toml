@@ -36,7 +36,7 @@ center = [0.0, 0.0]
 [emission]
 # "continuous" or "pixelated"
 origin_type = "pixelated"
-base_intensity = 12.5 # [mW/cm^2] or [nW/(10 μm)^2]
+base_intensity = 14.35 # [mW/cm^2] or [nW/(10 μm)^2]
 
 [focus]
 mode = "collimated"
