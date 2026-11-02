@@ -1,6 +1,6 @@
 [projection]
 width = 176.0 # [10 μm]
-height = 312.0 # [10 μm]
+height = 312.4 # [10 μm]
 axis = "y"
 direction = 1
 focus_plane_position = 0.0
