@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this data or these configuration files, please cite the manuscript and this dataset."
 type: dataset
-title: "m-aarab/mirage-striations-in-tvam-tutorial: v0.9.4"
+title: "m-aarab/mirage-striations-in-tvam-tutorial: v0.9.5"
 version: "v0.9.4"
 doi: 10.5281/zenodo.23060992
 date-released: "2026-09-30"
