@@ -27,9 +27,9 @@ curing_model = "energy_threshold"
 [material.common]
 n0 = 1.496 # [-]
 n1 = 1.531 # [-]
-alpha0 = 0.0004 # [1/(10 μm)]
-alpha1 = 0.0004 # [1/(10 μm)]
+alpha0 = 0.00092103 # [1/(10 μm)]
+alpha1 = 0.00092103 # [1/(10 μm)]
 
 [material.energy_threshold]
-cureE = 0.4683333 # [J/cm^3] or [nJ/(10 μm)^3]
-gelE = 0.115 # [J/cm^3] or [nJ/(10 μm)^3]
+cureE = 1.0783774 # [J/cm^3] or [nJ/(10 μm)^3]
+gelE = 0.2647973# [J/cm^3] or [nJ/(10 μm)^3]

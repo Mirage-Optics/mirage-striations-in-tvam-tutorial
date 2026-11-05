@@ -2,7 +2,7 @@
 [output]
 output_folder = "rayfiles"
 output_filename = "cone.ry"
-
+overwrite = true
 rays_only = true
 # center: pixel center in/out
 activation_mode = "antialiased"
@@ -36,7 +36,7 @@ center = [0.0, 0.0]
 [emission]
 # "continuous" or "pixelated"
 origin_type = "pixelated"
-base_intensity = 12.5 # [mW/cm^2] or [nW/(10 μm)^2]
+base_intensity = 14.35 # [mW/cm^2] or [nW/(10 μm)^2]
 
 [focus]
 mode = "collimated"

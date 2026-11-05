@@ -9,7 +9,7 @@ center = [0.0, 0.0]
 
 [emission]
 origin_type = "pixelated"
-base_intensity = 40.3 # [mW/cm^2] or [nW/(10 μm)^2]
+base_intensity = 43.35 # [mW/cm^2] or [nW/(10 μm)^2]
 # ^ (this value is geometry specific and average peak intensity will be 12.5 mW/cm^2)
 
 [focus]
